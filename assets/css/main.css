@@ -21,7 +21,7 @@ h1 {
 	font-size: 400%;
 	margin-bottom: 0px;
 }
-p {
+p.desc {
 	/*color: #2d4ea4;*/
 	margin-top: -3px;
 	padding-bottom: 10px;
